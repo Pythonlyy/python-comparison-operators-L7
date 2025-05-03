@@ -81,4 +81,3 @@ Is x less than y? True
 Learn Python one line at a time. Follow **@Pythonly** for more.
 
 ---
-```
